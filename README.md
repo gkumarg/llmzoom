@@ -1,2 +1,2 @@
-# llmzoom
+# LLM Workshop
 LLM related repo
